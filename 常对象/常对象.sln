@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "常对象", "常对象\常对象.vcxproj", "{5CAB13C1-1962-41D8-A4F9-E6B8E50009BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CAB13C1-1962-41D8-A4F9-E6B8E50009BF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5CAB13C1-1962-41D8-A4F9-E6B8E50009BF}.Debug|Win32.Build.0 = Debug|Win32
+		{5CAB13C1-1962-41D8-A4F9-E6B8E50009BF}.Release|Win32.ActiveCfg = Release|Win32
+		{5CAB13C1-1962-41D8-A4F9-E6B8E50009BF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

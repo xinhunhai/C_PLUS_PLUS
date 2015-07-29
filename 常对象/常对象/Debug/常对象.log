@@ -1,0 +1,14 @@
+﻿生成启动时间为 2015/7/29 21:43:12。
+     1>项目“G:\C++\常对象\常对象\常对象.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt coordinate.cpp main.cpp
+         main.cpp
+     1>g:\c++\常对象\常对象\main.cpp(8): error C2662: “coordinate::get_x”: 不能将“this”指针从“const coordinate”转换为“coordinate &”
+                 转换丢失限定符
+         coordinate.cpp
+         正在生成代码...
+     1>已完成生成项目“G:\C++\常对象\常对象\常对象.vcxproj”(Rebuild 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.19
